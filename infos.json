@@ -1,0 +1,7 @@
+{
+ "cms": {
+    "server": true,
+    "service": true,
+    "global": true
+ }
+}
